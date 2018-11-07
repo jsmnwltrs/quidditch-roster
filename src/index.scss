@@ -1,5 +1,10 @@
 @import "~bootstrap/scss/bootstrap";
+@import "./styles/variables"; // doesn't need the underscore
 
 body {
-  background-color: grey;
+  background-color: $darkgray;
+
+  #button-container {
+    margin-top: 100px;
+  }
 }
