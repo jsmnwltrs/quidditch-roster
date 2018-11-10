@@ -1,7 +1,11 @@
 //stuff goes here
-@import '../../styles/variables';
-
 .team-button-group {
   display: flex;
   justify-content: center;
+
+  // this means reference the parrent (& - in this case .team-button-group)
+  // and select any direct descendents (> - in this case the buttons with the class team-button)
+  & > * {
+    margin: 0 20px;
+  }
 }
