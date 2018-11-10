@@ -1,5 +1,8 @@
 import $ from 'jquery';
+import firebase from 'firebase/app';
 import 'bootstrap';
+
+import apiKeys from '../db/apiKeys.json';
 
 import loadNavbar from './components/Navbar/navbar';
 import dataGetter from './helpers/dataGetter';
@@ -34,6 +37,7 @@ const getAndPrintAllPlayers = () => {
 };
 
 const initializeApp = () => {
+  firebase.initializeApp(apiKeys.firebaseKeys);
   loadNavbar();
   getAndPrintTeamButtonGroup();
   getAndPrintAllPlayers();
