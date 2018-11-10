@@ -1,1 +1,7 @@
 //stuff goes here
+.player-list {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-flow: row wrap;
+}

@@ -1,277 +1,240 @@
 {
-  "players": [
-    {
-      "id":"player1",
+  "players": {
+    "player1": {
       "name": "Katie Bell",
       "positionId": "position1",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/3/39/Katie_bell1-kl.jpg/revision/latest?cb=20090526214420",
       "teamId": "team1",
       "subsitute": false
     },
-    {
-      "id":"player2",
+    "player2": {
       "name": "Ginny Weasley",
       "positionId": "position1",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/1/1e/Ginerva.PNG/revision/latest?cb=20090711092855",
       "teamId": "team1",
       "subsitute": false
     },
-    {
-      "id":"player3",
+    "player3": {
       "name": "Demelza Robins",
       "positionId": "position1",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/a/ae/Demelza_robins.PNG/revision/latest?cb=20090711095409",
       "teamId": "team1",
       "subsitute": false
     },
-    {
-      "id":"player4",
+    "player4": {
       "name": "Jimmy Peakes",
       "positionId": "position2",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/3/3a/Jimmypeakes.PNG/revision/latest?cb=20110522183232",
       "teamId": "team1",
       "subsitute": false
     },
-    {
-      "id":"player5",
+    "player5": {
       "name": "Ritchie Cootes",
       "positionId": "position2",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/c/cb/RitchieC.PNG/revision/latest?cb=20090516210536",
       "teamId": "team1",
       "subsitute": false
     },
-    {
-      "id":"player6",
+    "player6": {
       "name": "Ron Weasley",
       "positionId": "position3",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/3/33/RonKeeper.jpg/revision/latest?cb=20110905145250",
       "teamId": "team1",
       "subsitute": false
     },
-    {
-      "id":"player7",
+    "player7": {
       "name": "Harry Potter",
       "positionId": "position4",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/c/c2/HarrywithNimbus.jpg/revision/latest?cb=20090723155006",
       "teamId": "team1",
       "subsitute": false
     },
-    {
-      "id":"player8",
+    "player8": {
       "name": "Cormac McLaggen",
       "positionId": "position3",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/b/bd/Cormacl1.PNG/revision/latest?cb=20090906135929",
       "teamId": "team1",
       "subsitute": true
     },
-    {
-      "id":"player9",
+    "player9": {
       "name": "Dean Thomas",
       "positionId": "position1",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/c/cf/Deanthomas_prop.PNG/revision/latest?cb=20090808162439",
       "teamId": "team1",
       "subsitute": true
     },
-    {
-      "id":"player10",
+    "player10": {
       "name": "Vaisey",
       "positionId": "position1",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/8/89/Vaisey.jpg/revision/latest?cb=20110425175039",
       "teamId": "team2",
       "subsitute": false
     },
-    {
-      "id":"player11",
+    "player11": {
       "name": "Blaise Zabini",
       "positionId": "position1",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/5/59/Blaise_Zabini.png/revision/latest?cb=20170102051038",
       "teamId": "team2",
       "subsitute": false
     },
-    {
-      "id":"player12",
+    "player12": {
       "name": "Vincent Crabbe",
       "positionId": "position2",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/b/ba/Vincent_Crabbe.jpg/revision/latest?cb=20091224183746",
       "teamId": "team2",
       "subsitute": false
     },
-    {
-      "id":"player13",
+    "player13": {
       "name": "Gregory Goyle",
       "positionId": "position2",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/3/38/Carbegoye.jpg/revision/latest?cb=20100621093114",
       "teamId": "team2",
       "subsitute": false
     },
-    {
-      "id":"player14",
+    "player14": {
       "name": "Draco Malfoy",
       "positionId": "position4",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/8/80/Bad_boy.jpg/revision/latest?cb=20110419204437",
       "teamId": "team2",
       "subsitute": false
     },
-    {
-      "id":"player15",
+    "player15": {
       "name": "Harper",
       "positionId": "position4",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/f/f9/Harper.png/revision/latest?cb=20101209010657",
       "teamId": "team2",
       "subsitute": true
     },
-    {
-      "id":"player16",
+    "player16": {
       "name": "Roger Davies",
       "positionId": "position1",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/8/82/Fleur_y_Roger_Davies_1.jpg/revision/latest?cb=20180322052136",
       "teamId": "team3",
       "subsitute": false
     },
-    {
-      "id":"player17",
+    "player17": {
       "name": "Jeremy Stretton",
       "positionId": "position1",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/0/06/Jeremy_Stretton_Cleansweep_Seven.jpg/revision/latest?cb=20091020205540",
       "teamId": "team3",
       "subsitute": false
     },
-    {
-      "id":"player18",
+    "player18": {
       "name": "Randolph Burrow",
       "positionId": "position1",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/0/07/RandolphBurrow.png/revision/latest?cb=20130320231816",
       "teamId": "team3",
       "subsitute": false
     },
-    {
-      "id":"player19",
+    "player19": {
       "name": "Duncan Inglebee",
       "positionId": "position2",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/2/29/Dinglebee.png/revision/latest?cb=20140827133418",
       "teamId": "team3",
       "subsitute": false
     },
-    {
-      "id":"player20",
+    "player20": {
       "name": "Jason Samuels",
       "positionId": "position2",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/1/1b/Jasonsamuelsqwc.png/revision/latest?cb=20140827133708",
       "teamId": "team3",
       "subsitute": false
     },
-    {
-      "id":"player21",
+    "player21": {
       "name": "Grant Page",
       "positionId": "position3",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/9/93/GrantPage.png/revision/latest?cb=20130320232028",
       "teamId": "team3",
       "subsitute": false
     },
-    {
-      "id":"player22",
+    "player22": {
       "name": "Cho Chang",
       "positionId": "position4",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/e/e1/Cho.jpg/revision/latest?cb=20090725204212",
       "teamId": "team3",
       "subsitute": false
     },
-    {
-      "id":"player23",
+    "player23": {
       "name": "Malcolm Preece",
       "positionId": "position1",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/9/92/Malcolm_Preece.png/revision/latest?cb=20170304122953",
       "teamId": "team4",
       "subsitute": false
     },
-    {
-      "id":"player24",
+    "player24": {
       "name": "Heidi Macacoy",
       "positionId": "position1",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/a/af/Heidi_Macavoy.png/revision/latest?cb=20170304123437",
       "teamId": "team4",
       "subsitute": false
     },
-    {
-      "id":"player25",
+    "player25": {
       "name": "Tamsin Applebee",
       "positionId": "position1",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/4/48/Tamsin_Applebee.png/revision/latest?cb=20170304124301",
       "teamId": "team4",
       "subsitute": false
     },
-    {
-      "id":"player26",
+    "player26": {
       "name": "Maxine O'Flaherty",
       "positionId": "position2",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/6/64/Maxine_O%27Flaherty.png/revision/latest?cb=20170304123914",
       "teamId": "team4",
       "subsitute": false
     },
-    {
-      "id":"player27",
+    "player27": {
       "name": "Anthony Rickett",
       "positionId": "position2",
       "picture": "https://vignette.wikia.nocookie.net/harryalbuspotter/images/e/ea/Anthony_Rickett.PNG/revision/latest?cb=20120107004734",
       "teamId": "team4",
       "subsitute": false
     },
-    {
-      "id":"player28",
+    "player28": {
       "name": "Herbert Fleet",
       "positionId": "position3",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/0/04/Herbert_Fleet.png/revision/latest?cb=20170304124757",
       "teamId": "team4",
       "subsitute": false
     },
-    {
-      "id":"player29",
+    "player29": {
       "name": "Cedric Diggory",
       "positionId": "position4",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/2/25/Cedric-Diggory-cedric-diggory-2719265-1842-2560.jpg/revision/latest?cb=20140619192245",
       "teamId": "team4",
       "subsitute": false
     }
-  ],
-  "teams": [
-    {
-      "id": "team1",
+  },
+  "teams": {
+    "team1": {
       "name": "Gryffindor",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/d/d3/Gryffindor%E2%84%A2_Quidditch%E2%84%A2_Badge.png/revision/latest?cb=20160731003525"
     },
-    {
-      "id": "team2",
+    "team2": {
       "name": "Slytherin",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/5/5d/Slytherin%E2%84%A2_Quidditch%E2%84%A2_Badge.png/revision/latest?cb=20091129181212"
 
     },
-    {
-      "id": "team3",
+    "team3": {
       "name": "Ravenclaw",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/4/4b/Ravenclaw%E2%84%A2_Quidditch%E2%84%A2_Badge.png/revision/latest?cb=20091129181211"
     },
-    {
-      "id": "team4",
+    "team4": {
       "name": "Hufflepuff",
       "picture": "https://vignette.wikia.nocookie.net/harrypotter/images/b/b1/Hufflepuff%E2%84%A2_Quidditch%E2%84%A2_Badge.png/revision/latest?cb=20091129181210"
     }
-  ],
-  "positions": [
-    {
-      "id": "position1",
+  },
+  "positions": {
+    "position1": {
       "name": "Chaser"
     },
-    {
-      "id": "position2",
+    "position2": {
       "name": "Beater"
     },
-    {
-      "id": "position3",
+    "position3": {
       "name": "Keeper"
     },
-    {
-      "id": "position4",
+    "position4": {
       "name": "Seeker"
     }
-  ]
+  }
 }
